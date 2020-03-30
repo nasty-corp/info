@@ -4,7 +4,7 @@
 >It will be nasty (since 05.05.2017)
 
 ## Story
-Originially was found by INZAME while was studying in IT college and dedicated to help students with passing their final exams.
+Originially was founded by INZAME while was studying in IT college and dedicated to help students with passing their final exams.
 With huge support of this guys: lip0spwnz, samwize4u, sodimm8841.
 We made a small IT team.
 
